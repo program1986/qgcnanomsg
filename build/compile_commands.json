@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/shijingwei/Sourcecode/qgc_nanomsg/build",
+  "command": "/usr/bin/clang++ -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/nanomsg/include -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/jsoncpp/include -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/nanoserver.dir/nanomsg_server.cpp.o -c /Users/shijingwei/Sourcecode/qgc_nanomsg/nanomsg_server.cpp",
+  "file": "/Users/shijingwei/Sourcecode/qgc_nanomsg/nanomsg_server.cpp",
+  "output": "CMakeFiles/nanoserver.dir/nanomsg_server.cpp.o"
+},
+{
+  "directory": "/Users/shijingwei/Sourcecode/qgc_nanomsg/build",
+  "command": "/usr/bin/clang++ -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/nanomsg/include -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/jsoncpp/include -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/nanoclient.dir/nanomsg_client.cpp.o -c /Users/shijingwei/Sourcecode/qgc_nanomsg/nanomsg_client.cpp",
+  "file": "/Users/shijingwei/Sourcecode/qgc_nanomsg/nanomsg_client.cpp",
+  "output": "CMakeFiles/nanoclient.dir/nanomsg_client.cpp.o"
+},
+{
+  "directory": "/Users/shijingwei/Sourcecode/qgc_nanomsg/build",
+  "command": "/usr/bin/clang++ -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/nanomsg/include -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/jsoncpp/include -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/pair_sender.dir/example_src/pair/sender.cpp.o -c /Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/pair/sender.cpp",
+  "file": "/Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/pair/sender.cpp",
+  "output": "CMakeFiles/pair_sender.dir/example_src/pair/sender.cpp.o"
+},
+{
+  "directory": "/Users/shijingwei/Sourcecode/qgc_nanomsg/build",
+  "command": "/usr/bin/clang++ -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/nanomsg/include -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/jsoncpp/include -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/pair_receiver.dir/example_src/pair/receiver.cpp.o -c /Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/pair/receiver.cpp",
+  "file": "/Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/pair/receiver.cpp",
+  "output": "CMakeFiles/pair_receiver.dir/example_src/pair/receiver.cpp.o"
+},
+{
+  "directory": "/Users/shijingwei/Sourcecode/qgc_nanomsg/build",
+  "command": "/usr/bin/clang++ -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/nanomsg/include -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/jsoncpp/include -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/requester.dir/example_src/request/requester.cpp.o -c /Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/request/requester.cpp",
+  "file": "/Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/request/requester.cpp",
+  "output": "CMakeFiles/requester.dir/example_src/request/requester.cpp.o"
+},
+{
+  "directory": "/Users/shijingwei/Sourcecode/qgc_nanomsg/build",
+  "command": "/usr/bin/clang++ -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/nanomsg/include -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/jsoncpp/include -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/responder.dir/example_src/request/responder.cpp.o -c /Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/request/responder.cpp",
+  "file": "/Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/request/responder.cpp",
+  "output": "CMakeFiles/responder.dir/example_src/request/responder.cpp.o"
+},
+{
+  "directory": "/Users/shijingwei/Sourcecode/qgc_nanomsg/build",
+  "command": "/usr/bin/clang++ -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/nanomsg/include -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/jsoncpp/include -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/endpoint1.dir/example_src/bus/endpoint1.cpp.o -c /Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/bus/endpoint1.cpp",
+  "file": "/Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/bus/endpoint1.cpp",
+  "output": "CMakeFiles/endpoint1.dir/example_src/bus/endpoint1.cpp.o"
+},
+{
+  "directory": "/Users/shijingwei/Sourcecode/qgc_nanomsg/build",
+  "command": "/usr/bin/clang++ -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/nanomsg/include -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/jsoncpp/include -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/endpoint2.dir/example_src/bus/endpoint2.cpp.o -c /Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/bus/endpoint2.cpp",
+  "file": "/Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/bus/endpoint2.cpp",
+  "output": "CMakeFiles/endpoint2.dir/example_src/bus/endpoint2.cpp.o"
+},
+{
+  "directory": "/Users/shijingwei/Sourcecode/qgc_nanomsg/build",
+  "command": "/usr/bin/clang++ -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/nanomsg/include -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/jsoncpp/include -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/publisher.dir/example_src/pubsub/publisher.cpp.o -c /Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/pubsub/publisher.cpp",
+  "file": "/Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/pubsub/publisher.cpp",
+  "output": "CMakeFiles/publisher.dir/example_src/pubsub/publisher.cpp.o"
+},
+{
+  "directory": "/Users/shijingwei/Sourcecode/qgc_nanomsg/build",
+  "command": "/usr/bin/clang++ -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/nanomsg/include -I/Users/shijingwei/Sourcecode/qgc_nanomsg/lib/jsoncpp/include -g -std=gnu++11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -o CMakeFiles/subscriber.dir/example_src/pubsub/subscriber.cpp.o -c /Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/pubsub/subscriber.cpp",
+  "file": "/Users/shijingwei/Sourcecode/qgc_nanomsg/example_src/pubsub/subscriber.cpp",
+  "output": "CMakeFiles/subscriber.dir/example_src/pubsub/subscriber.cpp.o"
+}
+]

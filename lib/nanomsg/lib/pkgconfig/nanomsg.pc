@@ -1,0 +1,13 @@
+prefix=/Users/shijingwei/Sourcecode/msg/nanomsg/build/x86_lib
+exec_prefix=${prefix}
+includedir=/Users/shijingwei/Sourcecode/msg/nanomsg/build/x86_lib/include
+libdir=/Users/shijingwei/Sourcecode/msg/nanomsg/build/x86_lib/lib
+
+Name: nanomsg
+Description: High-Performance Scalability Protocols
+URL: http://nanomsg.org/
+Version: 1.2-4-ga54ccc7c
+Requires:
+Libs: -L${libdir} -lnanomsg
+Libs.private: -lpthread
+Cflags: -I${includedir}
